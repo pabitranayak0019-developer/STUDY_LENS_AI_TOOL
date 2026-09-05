@@ -1,1 +1,1 @@
-# STUDY_LENS_AI_TOOL
+# study-lens-ai-tool
