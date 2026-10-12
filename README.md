@@ -12,6 +12,14 @@
 
 ## ⚙️ How It Works (Workflow)
 
+```mermaid
+graph TD
+    A[User Uploads Image / PDF] --> B[Pre-processing & OCR Extraction]
+    B --> C[Text Structuring & AI Prompt Generation]
+    C --> D[AI Processing - Gemini API / OpenAI API]
+    D --> E[Feature Generation - Summaries, Q&A, Quizzes]
+    E --> F[Interactive UI Output & Download Options]
+
 [ User Uploads Image/PDF ]
            │
            ▼
@@ -28,6 +36,8 @@
            │
            ▼
 [ Interactive UI Output & Download Options ]
+
+
 
 
 # 📚 Study Lens AI Tool
