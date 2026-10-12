@@ -13,20 +13,20 @@
 ## ⚙️ How It Works (Workflow)
 
 [ User Uploads Image/PDF ]
-│
-▼
+           │
+           ▼
 [ Pre-processing & OCR Extraction (Tesseract / Vision API) ]
-│
-▼
+           │
+           ▼
 [ Text Structuring & AI Prompt Generation ]
-│
-▼
+           │
+           ▼
 [ AI Processing (Google Gemini API / OpenAI API) ]
-│
-▼
+           │
+           ▼
 [ Feature Generation (Summaries, Q&A, Quizzes) ]
-│
-▼
+           │
+           ▼
 [ Interactive UI Output & Download Options ]
 
 
