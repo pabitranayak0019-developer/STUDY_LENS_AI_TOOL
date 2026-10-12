@@ -12,7 +12,6 @@
 
 ## ⚙️ How It Works (Workflow)
 
-```mermaid
 graph TD
     A[User Uploads Image / PDF] --> B[Pre-processing & OCR Extraction]
     B --> C[Text Structuring & AI Prompt Generation]
